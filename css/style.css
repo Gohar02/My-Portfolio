@@ -11106,10 +11106,14 @@ h5,
     text-align: center;
   }
 }
+.color-white {
+  color: #ffffff;
+}
 .owl-carousel.home-slider .slider-item .slider-text .one-third {
   width: 60%;
   position: relative;
   z-index: -1;
+  background-size: contain;
 }
 .owl-carousel.home-slider .slider-item .slider-text .one-third .overlay {
   position: absolute;
